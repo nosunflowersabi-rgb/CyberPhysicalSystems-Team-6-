@@ -1,7 +1,7 @@
-**
+
 Cyber Physical Systems - Imperial College London IDE 1
 
-Project Title: Kalaidescope of Emotions (KoE)**
+**Project Title: Kalaidescope of Emotions (KoE)**
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ac950dec-d421-4f3d-885d-4ccbd54060e9" />
 
