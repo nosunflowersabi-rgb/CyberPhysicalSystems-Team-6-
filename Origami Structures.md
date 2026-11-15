@@ -3,18 +3,18 @@ Baking/Parchment paper has been used to fold these structures to allow the LED's
 created a unique visual appeal that has a naturistic feel. This type of paper can be easily purchased at a local supermarket for a small price. Youtube links have been provided to watch 
 alongside additional instructions on proportianlity and sizing. 
 
-# ADD PICTURE # OF ALL MECHANISMS CREATED 
+<img width="2561" height="1152" alt="image" src="https://github.com/user-attachments/assets/cf4d6eeb-5caf-43c5-a86c-4d99a5a660e0" />
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Structure 1: MAGIC BALL - Yakomoga
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=xRrLTwrZCBI
 
-To fold the first two structures click on the link above to watch the tutorial. The structures folded for the KoE are recreations of this but with the paper starting at 
-a longer and wider length. To work out the proportions start with the paper dimensions shown in the video and size up after measuring the length way dimension of the baking paper purchased.
-Use the maximum proportions for structure 1 and scale down to A4 dimensions for the second recreation at a smaller size. The larger shell like structure will be placed in the centre angled at 45 degrees on the bottom surface of the mirror box. The second structure which will be a lot smaller and have less pleats will be placed on the ceiling. 
+The structures folded for the KoE are recreations of this but with the paper starting at a longer and wider length. To work out the proportions start with the paper dimensions shown in the video and size up after measuring the length way dimension of the baking paper purchased. Use the maximum proportions for structure 1 and scale down to A4 dimensions for the second recreation at a smaller size. The larger shell like structure will be placed in the centre angled at 45 degrees on the bottom surface of the mirror box. The second structure which will be a lot smaller and have less pleats will be placed on the ceiling. 
 
-# ADD PICTURE #
+<img width="689" height="516" alt="image" src="https://github.com/user-attachments/assets/01cfcc99-a613-4709-ae22-4ecfc794b95e" />
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Structure 2: Muira Fold by Kōryō Miura
@@ -25,7 +25,8 @@ This is a famous fold created by the japanese astrophysicist Kōryō Miura. It h
 orientation allowing the structure to move up an down the pulley mechanism explained within the repository. The length of the paper needs to be at least 300mm. Allowing the structure to 
 expand to a height of 200mm within the mirror box. The length of the muira stucture can be made longer by increasing the length of the paper. 
 
-# ADD PICTURE #
+<img width="266" height="356" alt="image" src="https://github.com/user-attachments/assets/a929e7f0-47f2-47be-ac45-413f005607a0" />
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Structure 3: Yoshimura Polyhedral Pattern Paper Cylinder Spring
@@ -34,7 +35,9 @@ This final structure will not be placed within a mechanism but just light up wit
 of the rest. The partial structure is created using the full length of a A4 and 2/3 of the width. This is the simplest of the 3 structures within the Kalidescope of Emotions. The structure 
 is placed on the right hand side of the mirror box with both ends attached using the preferred adhesive. Double sided tape was used for the project but super glue can work too. 
 
-# ADD PICTURE #
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4e8aa425-c001-4195-94db-eb9076ff3a81" />  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1ff60617-aef0-426b-9fa0-b3515a4a5a93" />
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 OPTIONAL Structure 4: Spring into Action by Jeff Beynon
@@ -47,7 +50,8 @@ created for the Kalidescope of emotions used 7 divisions not 12. Measure the wid
 This allows for a simpler model that can be used to model a mechanism around easier. The idea behind using this origami structure was to have it expand to its full state using something 
 similar to the robot arm. Applying pressure at the middle of the structure in a gripping pinching motion allows for expansion. 
 
-# ADD PICTURE #
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/84cc2413-d51f-4ca1-a740-1e58bb381876" />
+
 
 
 
