@@ -1,5 +1,5 @@
-Created Alumnium Stands for the KoE Mirror Box
-
+Creating Aluminium Stands for the KoE Mirror Box
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 After assembling all components of the box and the origami structures you will notice that wires go underneath too which can get crushed meaning the box will not stand flat on it surface.
 To solve this issue Aluminium feet were turned on the metal lathe. This is optional as a book of similar height placed on both sides can also ensure the box is level. Alternatively, 
 wood/rubber blocks can be glued to the bottom surface. Only a brushed finish was achieved due to limited time but a mirror finish would go even better with the mirror acrylic. 
@@ -8,15 +8,16 @@ For further improvements when creating the box a double walled approch would hav
 aluminium feet were turned to achieve a quality finish and aesthetic. 
 
 The stock used for this project was 50mm but smaller stock would mean less waste material. 
-----------------------------------------------------------------------------------------------------
+
 Finished Dimensions for the Aluminium Feet - Quantity = 4 
 Top - 20mm
 Bottom - 35mm/ 40mm according to preference
 Overall Height - 25mm
 Taper - 15° degrees
----------------------------------------------------------------------------------------------------
+
 
 Instructions 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ____________________________________________________________________________________________________________________________________
 FACING OFF
 ____________________________________________________________________________________________________________________________________
