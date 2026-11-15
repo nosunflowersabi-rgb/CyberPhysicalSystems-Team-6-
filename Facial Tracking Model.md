@@ -4,9 +4,9 @@ For the Kalaidescope of Emotions FaceOSC is an input that must be used alongside
 This allows for 132 points on the individuals face to be tracked logging the motions for the three possible cases: happy, sad and suprised. FaceOSC captures the facial movements through a webcam and sends the data via OSC to Wekinator. 
 Wekinator is an interactive machine learning tool that allows users to train computers to recognise and respond to different typeso of input in real time. 
 
-https://github.com/mywdka/Processing_Wekinator_Arduino? by jxllp
-https://github.com/kylemcdonald/ofxFaceTracker/releases by  kylemcdonald 
-https://github.com/kylemcdonald/ofxFaceTracker/blob/master/FaceOSC/bin/readme.md
+  - https://github.com/mywdka/Processing_Wekinator_Arduino? by jxllp
+  - https://github.com/kylemcdonald/ofxFaceTracker/releases by  kylemcdonald 
+  - https://github.com/kylemcdonald/ofxFaceTracker/blob/master/FaceOSC/bin/readme.md
 
 Use the github repository above to help install FaceOSC
 Download FaceOSC and Download K-Lite Codec Pack
@@ -22,7 +22,7 @@ How Face OSC communicates to Wekinator
 4. Wekinator - Trains and applies a machine learning model
 
 
-# ADD SCREENSHOTS #
+
 
 Connecting Face OSC to Wekinator: Use the settings below for the Kalidescope of Emotions
 
@@ -49,9 +49,9 @@ Make sure the correct port is being recognised on the processing code as a numbe
 
 Useful Git Hub Repository Links 
 -----------------------------------------------------------------------------------------------------------------
-https://github.com/kylemcdonald/ofxFaceTracker (Face OSC installation)
-https://github.com/fiebrink1/wekinator_examples (Using Wekinator)
-https://github.com/IDE-GID-Cyberphysical-Systems/de-arm (Example Robot Arm - See processing code)
+  - https://github.com/kylemcdonald/ofxFaceTracker (Face OSC installation)
+  - https://github.com/fiebrink1/wekinator_examples (Using Wekinator)
+  - https://github.com/IDE-GID-Cyberphysical-Systems/de-arm (Example Robot Arm - See processing code)
 
 
 
