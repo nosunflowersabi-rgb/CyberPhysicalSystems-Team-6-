@@ -1,3 +1,7 @@
+
+Creating Origami Structures
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The Kalaidescope of Emotions uses 4 main origami structures 2 of which are just smaller versions of each other. These origami structures are then simply attached to the 3D printed mechanisms using a preferred method of adhesion.
 Baking/Parchment paper has been used to fold these structures to allow the LED's to shine more brightly through. The layered baking paper when pleated 
 created a unique visual appeal that has a naturistic feel. This type of paper can be easily purchased at a local supermarket for a small price. Youtube links have been provided to watch 
