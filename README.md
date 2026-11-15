@@ -10,19 +10,19 @@ The KoE allows two people to understand each others emotions. As one indiividual
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ac950dec-d421-4f3d-885d-4ccbd54060e9" />  
 
-Figure 1: Showing KoE in Default Mode 
+**Figure 1**: Showing KoE in Default Mode 
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4de31dca-1d05-4533-a39a-54328518a1f5" />  
 
-Figure 2: Showing KoE in Case 1 - Happy
+**Figure 2**: Showing KoE in Case 1 - **Happy**
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/2fff4ed0-6f9c-498e-abc5-ada362f936f2" /> 
 
-Figure 3: Showing KoE in Case 2 - Sad
+**Figure 3**: Showing KoE in Case 2 - **Sad**
 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/44d7bd9b-7af5-4db0-b149-3c5ef41735f4" />
 
-Figure 4: Showing KoE in Case 3 - Surprised
+**Figure 4**: Showing KoE in Case 3 - **Surprised**
 
 
 
