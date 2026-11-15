@@ -47,4 +47,4 @@ Always check tool clearance and alignment before starting the cut
   12. Alternatively, if the stock is long enough just torn the orientation and place the tapered edge back into the chuck 
   13. Once all four feet are turned use the parting tool to part of the feet at a height of 25mm 
 
-NOTE: Height an final dimennsions can all be adjsuted to individuals aesthetic preferences. 
+NOTE: Height an final dimennsions can all be adjusted to individuals aesthetic preferences. 
