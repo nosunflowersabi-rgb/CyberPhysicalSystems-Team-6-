@@ -11,7 +11,7 @@ alongside additional instructions on proportianlity and sizing.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Structure 1: MAGIC BALL - Yakomoga
+Structure 1: Magic Ball by Yakomoga
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 https://www.youtube.com/watch?v=xRrLTwrZCBI
 
@@ -33,7 +33,7 @@ expand to a height of 200mm within the mirror box. The length of the muira stuct
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Structure 3: Yoshimura Polyhedral Pattern Paper Cylinder Spring
+Structure 3: Yoshimura Polyhedral Pattern 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This final structure will not be placed within a mechanism but just light up with the other via strip LED's. Only a section of this is folded due to the mirror box creating the illusion 
 of the rest. The partial structure is created using the full length of a A4 and 2/3 of the width. This is the simplest of the 3 structures within the Kalidescope of Emotions. The structure 
