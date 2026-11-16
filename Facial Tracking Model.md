@@ -15,7 +15,7 @@ The FaceOSC software tracks facial input even when your hands are partially cove
 Refer to screenshots provided. Face OSC struggles to track when face is turned too much to the left or right. You must look directly at the camera in order for the input to be read correctly. 
 
 
-How Face OSC communicates to Wekinator 
+### How Face OSC communicates to Wekinator 
 1. Webcam - Captures facial movements
 2. FaceOSC - Tracks facial landmarks and outputs OSC data
 3. OSC Communication - Transfers numerical tracking data
@@ -24,7 +24,7 @@ How Face OSC communicates to Wekinator
 
 
 
-Connecting Face OSC to Wekinator: Use the settings below for the Kaleidoscope of Emotions
+## Connecting Face OSC to Wekinator: Use the settings below for the Kaleidoscope of Emotions
 
 Input type: OSC
 Input port: 8338
