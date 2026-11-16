@@ -4,6 +4,9 @@ After assembling all components of the box and the origami structures you will n
 To solve this issue Aluminium feet were turned on the metal lathe. This is optional as a book of similar height placed on both sides can also ensure the box is level. Alternatively, 
 wood/rubber blocks can be glued to the bottom surface. Only a brushed finish was achieved due to limited time but a mirror finish would go even better with the mirror acrylic. 
 
+<img width="849" height="624" alt="image" src="https://github.com/user-attachments/assets/e024744f-23ce-4746-b140-d23a4110b4a9" />
+
+
 For further improvements when creating the box a double walled approch would have ensured the KoE staying levelled when placed on the table regardless of the wires. Due to time constraints,
 aluminium feet were turned to achieve a quality finish and aesthetic. 
 
@@ -14,6 +17,11 @@ Finished Dimensions for the Aluminium Feet - Quantity = 4
   - Bottom - 35mm/ 40mm according to preference
   - Overall Height - 25mm
   - Taper - 15° degrees
+
+
+<img width="750" height="241" alt="image" src="https://github.com/user-attachments/assets/f9a45190-b397-435c-8d64-4d13229e1f7f" />
+
+
 
 
 Instructions 
@@ -41,6 +49,11 @@ The tool holder must be positioned so the cutting edge is correctly presented to
 Do not confuse the compound slide angle with the cutting tool's orientation.
 The compound slide is angled to generate the taper; the cutting tool must still be correctly aligned to the workpiece.
 Always check tool clearance and alignment before starting the cut
+
+
+<img width="3840" height="3840" alt="image" src="https://github.com/user-attachments/assets/75d9d9ea-bec6-4578-a9c4-b565231a2839" />
+
+
 
   10. Cut the 15° taper and turn off the lathe. 
   11. Switch out the stock aluminium and turn the other 4 feet by repeating all above instructions 
