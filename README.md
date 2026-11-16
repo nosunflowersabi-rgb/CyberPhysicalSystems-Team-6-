@@ -48,3 +48,5 @@ Assembly
 ------------------------------------------------------------------------------------
 
 The box was assembled using interlocking joints. We positioned the laser-cut holes around the mechanisms and wiring routes to keep the wires out of sight. A two-way mirror at the viewing opening was intended to make the viewer’s eyes less visible from inside, keeping the focus on the movement and light.
+
+Ready to build? [Start here!](https://github.com/nosunflowersabi-rgb/CyberPhysicalSystems-Team-6-/blob/main/START-HERE)
