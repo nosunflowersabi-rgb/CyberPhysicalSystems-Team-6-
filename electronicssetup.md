@@ -2,6 +2,9 @@
 
 This guide summarizes the electronic connections used in the mirror box project. Follow the schematic when wiring the Arduino, servos, LED strips, stepper motor, driver board, and power system.
 
+<img width="543" height="512" alt="Screenshot 2026-11-16 at 10 42 48" src="https://github.com/user-attachments/assets/ef1ef796-436c-4456-9de5-31705cf32709" />
+
+
 ## Arduino and Pin Assignments
 
 The project uses an **Arduino Nano**. The pin assignments below match the current schematic, but they can be changed in the control code if needed. If you change a connection, update the corresponding pin definition in the code as well.
