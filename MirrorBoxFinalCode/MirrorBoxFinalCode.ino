@@ -1,11 +1,8 @@
 /*
-   Controls the origami structures based on facial expression inputs
+   This code controls the mechanism based on facial expression inputs
    1. Happy
    2. Sad
    3. Surprised
-
-   To be used with the Processing sketch:
-   processingwithdelay.pde
 
    This code defines behavior functions for each component:
    - 2 Servos
@@ -16,7 +13,8 @@
    To simplify the code structure, the motors and LEDs are controlled using helper functions that are located after 
    the main case and switch body of the code. 
    
-   To tune the behaviors, edit the motor speed values in the case/switch section or LED behavior section
+   To tune the behaviors, edit the motor speed values in the case/switch section or LED behavior section. 
+
 */
 
 // VARIABLES + OBJECTS -----------------------------------------------------------------------------------------------------------------
