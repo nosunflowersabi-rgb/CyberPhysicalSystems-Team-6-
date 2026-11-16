@@ -25,7 +25,7 @@ The project uses an **Arduino Nano**. The pin assignments below match the curren
 - IN3 → A2
 - IN4 → A3
 
-E
+
 ## Power Regulation
 A power delivery board (represented by the power and ground symbols in the schematic) is connected to the battery pack to provide 5V to the system. 
 Ensure the board as well as all of the components share a common ground, and components are not being powered by the Arduino directly. 
