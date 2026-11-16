@@ -1,11 +1,12 @@
 /*
-  Systems test! Runs each mechanical system in a continuous loop while changing the LED colors
-  to test functionality + indicate which system is supposed to be moving
+  Systems test! This code runs each mechanical system in a continuous loop while changing the LED colors
+  to test functionality of each of the subsystems. 
 
-  The loop repeats continuously:
+  The colors of the LEDs indicates which motor that is meant to run at the same time, and the loop repeats continuously:
     Red   - stepper moves one quarter-turn forward and backward
     Green - servo 1 sweeps from 0 to 180 and back
     Blue  - servo 2 sweeps from 0 to 180 and back
+
 */
 
 #include <Servo.h>
