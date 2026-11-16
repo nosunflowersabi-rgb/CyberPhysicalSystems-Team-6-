@@ -15,7 +15,7 @@ Follow the sections in order. Each section links to the relevant files already i
 - [Box Build Guide](https://github.com/nosunflowersabi-rgb/CyberPhysicalSystems-Team-6-/blob/main/BoxAssembly/boxconstruction.md)
 - [Aluminium Feet](https://github.com/nosunflowersabi-rgb/CyberPhysicalSystems-Team-6-/blob/main/BoxAssembly/Aluminium%20Stands.md)
 
-### 4. Electronics
+### 4. Electronics and breadboard assembly
 
 - [Electronics files](https://github.com/nosunflowersabi-rgb/CyberPhysicalSystems-Team-6-/blob/main/Electronics%20Setup.md)
 - [Mechanism + Electronics Unit Test](https://github.com/nosunflowersabi-rgb/CyberPhysicalSystems-Team-6-/tree/main/CPSFinalUnitTest1)
@@ -26,7 +26,7 @@ Follow the sections in order. Each section links to the relevant files already i
 - [Configuration files](https://github.com/nosunflowersabi-rgb/CyberPhysicalSystems-Team-6-/search?q=config+OR+setup&type=code)
 - [Calibration and demo code](https://github.com/nosunflowersabi-rgb/CyberPhysicalSystems-Team-6-/search?q=calibration+OR+demo&type=code)
 
-### 6. Complete pipeline
+### 6. Complete pipeline of ML to KoE
 
 - [Facial Tracking + Wekinator](https://github.com/nosunflowersabi-rgb/CyberPhysicalSystems-Team-6-/blob/main/Facial%20Tracking%20Model.md)
 - [Processing](https://github.com/nosunflowersabi-rgb/CyberPhysicalSystems-Team-6-/tree/main/processingwithdelay)
